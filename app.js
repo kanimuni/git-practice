@@ -1,5 +1,6 @@
 //made this edit line
 //added another line
+// added a line from kani's branch:
 var randomPerson = {
   name: 'Kris',
   email: 'kris.lee@hackreactor.com',
